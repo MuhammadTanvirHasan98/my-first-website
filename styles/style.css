@@ -17,7 +17,7 @@ h1{
   background-color: black;
 }
 
-p{
+ul,p{
  color: rgb(31, 4, 109);
  background-color: rgb(219, 224, 238);
  margin: 20px 25px;
